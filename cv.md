@@ -3,6 +3,7 @@
 - **Email:** krivykhnikita@gmail.com
 - **Phone:** +375297490440
 - **GitHub:** https://github.com/nikitakrivykh
+- **Telegram:** @yahwnr77kkww
 - **Location:** Vitebsk, Belarus
 ## About Me
 Aspiring developer with basic programming knowledge. Although I don’t have any professional experience yet, I am highly motivated to learn and grow in the tech industry. My key strengths are:
