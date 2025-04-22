@@ -15,3 +15,9 @@ Currently focused on expanding my skills through personal projects, online cours
 - C++
 ### Tools & Technologies:
 - Git, GitHub
+## Education
+Information Resourse Management Degree
+*Vitebsk State University, 2024-2028*
+Relevant coursework: Algorithms, Programming, Informatics
+## English
+Upper-Intermediate (B2)
